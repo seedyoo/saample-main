@@ -1,1 +1,1 @@
-# saample-main
+# sample-main
